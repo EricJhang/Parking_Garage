@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">parking_garage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnInfo">停車資訊</string>
+    <string name="btnguid">停車引導</string>
+    <string name="btncost">查詢/繳費</string>
+    <string name="btngps">車輛搜尋</string>
+    <string name="btnHome">主頁面</string>
+    <string name="txtguid">停車資訊</string>
+    <string name="btnlsView">停車場列表</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_guid">guidActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_guid_">Guid_Activity</string>
+
+</resources>
